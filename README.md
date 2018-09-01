@@ -18,6 +18,11 @@ zfsm is a simple finite state 🔀 machine 🤖 TBD.
 
 ### Example
 
+#### API
+
+* allStates(): return all possible states.
+* hasState(name): check whether state exist of configured fsm.
+
 #### Code Snippet
 
 ```javascript
