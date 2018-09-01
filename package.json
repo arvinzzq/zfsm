@@ -1,0 +1,23 @@
+{
+  "name": "zfsm",
+  "description": "A finite state machine.",
+  "version": "0.0.1",
+  "author": "zon<zqzhong1211@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "babel docs/src -d docs/dist --watch",
+    "build": "babel src -d lib",
+    "release": "npm run build && npm publish"
+  },
+  "keywords": [
+    "finite",
+    "state",
+    "machine"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-0": "^6.24.1"
+  },
+  "dependencies": {}
+}
