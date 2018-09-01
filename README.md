@@ -1,3 +1,6 @@
 # zfsm
 
-A finite state machine TBD
+zfsm is a simple finite state 🔀 machine 🤖 TBD.
+
+## Usage
+
