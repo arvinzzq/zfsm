@@ -1,3 +1,5 @@
+[![npm version](https://img.shields.io/npm/v/zfsm.svg)](https://www.npmjs.com/package/zfsm)
+
 # zfsm
 
 zfsm is a simple finite state 🔀 machine 🤖 TBD.
