@@ -1,3 +1,5 @@
+[![npm version](https://img.shields.io/npm/v/zfsm.svg)](https://www.npmjs.com/package/zfsm)
+
 # zfsm
 
 zfsm is a simple finite state 🔀 machine 🤖 TBD. Transition of zfsm can only be synchronous now, but asynchronous transition will be support in future, relax 😜 ~
