@@ -1,7 +1,7 @@
 {
   "name": "zfsm",
   "description": "A finite state machine.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "zon<zqzhong1211@163.com>",
   "repository": "git@github.com:zz1211/zfsm.git",
   "license": "MIT",
