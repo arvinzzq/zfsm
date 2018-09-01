@@ -1,6 +1,6 @@
 # zfsm
 
-zfsm is a simple finite state 🔀 machine 🤖 TBD.
+zfsm is a simple finite state 🔀 machine 🤖 TBD. Transition of zfsm can only be synchronous now, but asynchronous transition will be support in future, relax 😜 ~
 
 ## Usage
 
