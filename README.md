@@ -1,4 +1,5 @@
 [![npm version](https://img.shields.io/npm/v/zfsm.svg)](https://www.npmjs.com/package/zfsm)
+[![npm download](https://img.shields.io/npm/dt/zfsm.svg)](https://www.npmjs.com/package/zfsm)
 
 # zfsm
 
