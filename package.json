@@ -3,6 +3,7 @@
   "description": "A finite state machine.",
   "version": "0.0.1",
   "author": "zon<zqzhong1211@163.com>",
+  "repository": "git@github.com:zz1211/zfsm.git",
   "license": "MIT",
   "scripts": {
     "dev": "babel docs/src -d docs/dist --watch",
